@@ -9,3 +9,4 @@
 /Users/stefan/4870/FizzBuzzSystem/FizzBuzzLibrary/obj/Debug/net8.0/refint/FizzbuzzLibrary.dll
 /Users/stefan/4870/FizzBuzzSystem/FizzBuzzLibrary/obj/Debug/net8.0/FizzbuzzLibrary.pdb
 /Users/stefan/4870/FizzBuzzSystem/FizzBuzzLibrary/obj/Debug/net8.0/ref/FizzbuzzLibrary.dll
+/Users/stefan/4870/FizzBuzzSystem/FizzBuzzLibrary/obj/Debug/net8.0/FizzBuzzLibrary.sourcelink.json
