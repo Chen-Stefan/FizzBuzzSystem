@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FizzBuzzMvc/1.0.0": {
+        "dependencies": {
+          "FizzBuzzLibrary": "1.0.0"
+        },
+        "runtime": {
+          "FizzBuzzMvc.dll": {}
+        }
+      },
+      "FizzBuzzLibrary/1.0.0": {
+        "runtime": {
+          "FizzBuzzLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FizzBuzzMvc/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FizzBuzzLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

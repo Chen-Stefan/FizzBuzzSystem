@@ -1,0 +1,11 @@
+/Users/stefan/4870/FizzBuzzSystem/FizzBuzzLibrary/bin/Debug/net8.0/FizzbuzzLibrary.deps.json
+/Users/stefan/4870/FizzBuzzSystem/FizzBuzzLibrary/bin/Debug/net8.0/FizzbuzzLibrary.dll
+/Users/stefan/4870/FizzBuzzSystem/FizzBuzzLibrary/bin/Debug/net8.0/FizzbuzzLibrary.pdb
+/Users/stefan/4870/FizzBuzzSystem/FizzBuzzLibrary/obj/Debug/net8.0/FizzbuzzLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stefan/4870/FizzBuzzSystem/FizzBuzzLibrary/obj/Debug/net8.0/FizzbuzzLibrary.AssemblyInfoInputs.cache
+/Users/stefan/4870/FizzBuzzSystem/FizzBuzzLibrary/obj/Debug/net8.0/FizzbuzzLibrary.AssemblyInfo.cs
+/Users/stefan/4870/FizzBuzzSystem/FizzBuzzLibrary/obj/Debug/net8.0/FizzbuzzLibrary.csproj.CoreCompileInputs.cache
+/Users/stefan/4870/FizzBuzzSystem/FizzBuzzLibrary/obj/Debug/net8.0/FizzbuzzLibrary.dll
+/Users/stefan/4870/FizzBuzzSystem/FizzBuzzLibrary/obj/Debug/net8.0/refint/FizzbuzzLibrary.dll
+/Users/stefan/4870/FizzBuzzSystem/FizzBuzzLibrary/obj/Debug/net8.0/FizzbuzzLibrary.pdb
+/Users/stefan/4870/FizzBuzzSystem/FizzBuzzLibrary/obj/Debug/net8.0/ref/FizzbuzzLibrary.dll
